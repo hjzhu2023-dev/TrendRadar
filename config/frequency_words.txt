@@ -1,81 +1,43 @@
 英伟达
 NVIDIA
-
-AMD
+黄仁勋
+Jensen Huang
++发布
 
 英特尔
 Intel
++发布
 
-浪潮信息
-Inspur
+谷歌
+Google
+Gemini
++发布
 
-超微电脑
-Supermicro
+微软
+Microsoft
++发布
+
+亚马逊
+Amazon
++发布
+
+Meta
++发布
+
+AMD
++发布
 
 华为
 Huawei
++发布
 
-工业富联
-Foxconn
+字节跳动
+豆包
++发布
 
-广达电脑
-Quanta
+Deepseek
++发布
 
-中际旭创
-Eoptolink
-
-GPU
-H100
-B200
-GB200
-B300
-GB300
-加速卡
-MI300
-MI350
-MI450
-昇腾
-Ascend
-Atlas
-DGX
-SuperPOD
-NVL72
-
-高速铜缆
-AEC
-DAC
-PCIe 5.0
-PCIe 6.0
-NVLink
-NVSwitch
-InfiniBand
-RoCE
-CPO
-CPC
-NPO
-MCIO
-CMIO
-
-数据中心
-AI服务器
-算力集群
-计算集群
-机柜级
-节点级
-胖树网络
-Spine-Leaf
-TOR交换机
-
-黄仁勋
-苏姿丰
-任正非
-Sam Altman
-
-市场规模
-市场份额
-供应链
-产能
-代工
-光模块
-800G
-1.6T
+OpenAI
+ChatGPT
++发布
