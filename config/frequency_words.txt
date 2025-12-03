@@ -1,118 +1,81 @@
-高速铜缆市场规模
-复合年增长率(CAGR)
-AI算力基建
-数据中心投资
-
-AI服务器
-GPU集群
-NVLINK
-英伟达GB200/GB300
-机柜内连接(In-Tray)
-机柜间连接(Tray to Tray)
-
-200G (每通道速率)
-400G (每通道速率)
-800G (每通道速率)
-1.6T (每通道速率)
-3.2T (每通道速率)
-224G (每通道速率)
-448G (每通道速率)
-
-有源铜缆 (AEC) 
-无源铜缆 (DAC) 
-高速线缆
-
-信号完整性
-低损耗
-高纯度无氧铜
-屏蔽技术
-散热
-
-PCIe 5.0/6.0/7.0
-MCIO连接器
-QSFP-DD
-OSFP
-AOC(有源光缆，作为对比)
-
-通信电缆产业链
-铜导体材料
-连接器
-线缆组件
-
-贸联
-Credo
-安费诺
-泰科
-立讯精密
-中航光电
-
-行业白皮书
-市场研究报告
-产业图谱
-
-DeepSeek
-梁文锋
-
-华为
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
+英特尔
+Intel
 
-chatgpt
-openai
-sora
+浪潮信息
+Inspur
 
-claude
-Anthropic
+超微电脑
+Supermicro
 
-iphone
-ipad
-mac
-ios
+华为
+Huawei
 
-ai
-!gai
-人工智能
+工业富联
+Foxconn
 
-机器人
+广达电脑
+Quanta
 
-国产
-中国
+中际旭创
+Eoptolink
 
-芯片
-光刻机
+GPU
+H100
+B200
+GB200
+B300
+GB300
+加速卡
+MI300
+MI350
+MI450
+昇腾
+Ascend
+Atlas
+DGX
+SuperPOD
+NVL72
 
-科技
+高速铜缆
+AEC
+DAC
+PCIe 5.0
+PCIe 6.0
+NVLink
+NVSwitch
+InfiniBand
+RoCE
+CPO
+CPC
+NPO
+MCIO
+CMIO
+
+数据中心
+AI服务器
+算力集群
+计算集群
+机柜级
+节点级
+胖树网络
+Spine-Leaf
+TOR交换机
+
+黄仁勋
+苏姿丰
+任正非
+Sam Altman
+
+市场规模
+市场份额
+供应链
+产能
+代工
+光模块
+800G
+1.6T
